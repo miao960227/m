@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.store.entity.User;
 import com.store.service.UserService;
-
+//test3
 @Controller
 public class UserController {
 
